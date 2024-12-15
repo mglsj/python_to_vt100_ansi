@@ -1,0 +1,3 @@
+marks=10
+if marks>20:
+    print "GODD SCORE"
